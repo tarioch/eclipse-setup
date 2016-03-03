@@ -128,8 +128,6 @@
         name="net.sf.eclipsecs.feature.group"/>
     <requirement
         name="com.github.sevntu.checkstyle.checks.feature.feature.group"/>
-    <requirement
-        name="com.collabnet.subversion.merge.feature.feature.group"/>
     <repository
         url="http://ucdetector.sourceforge.net/update"/>
     <repository
