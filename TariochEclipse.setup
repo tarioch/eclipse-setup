@@ -163,8 +163,8 @@
         option="-Dorg.eclipse.ecf.provider.filetransfer.retrieve.closeTimeout=5000"
         vm="true"/>
   </setupTask>
-  <version name="mars"
-      label="Mars"
+  <version name="oxygen"
+      label="Oxygen"
       requiredJavaVersion="1.7">
     <setupTask
         xsi:type="setup.p2:P2Task"
@@ -222,9 +222,9 @@
       <requirement
           name="org.eclipse.m2e.wtp.feature.feature.group"/>
       <repository
-          url="http://download.eclipse.org/releases/mars"/>
+          url="http://download.eclipse.org/releases/oxygen"/>
     </setupTask>
-    <description>Tarioch Eclipse for Mars.</description>
+    <description>Tarioch Eclipse for Oxygen.</description>
   </version>
   <description>Tarioch Eclipse provides cool stuff.</description>
 </setup:Product>
